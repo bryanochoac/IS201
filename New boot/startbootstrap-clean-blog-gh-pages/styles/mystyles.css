@@ -1,0 +1,22 @@
+h3 {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.inline-photos {
+    display: inline-block;
+    width: 300px; 
+    height: 200px;
+    padding: 0 10px;
+
+}
+.center-container {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+.video-style {
+    padding-top: 50px;
+    margin: auto;
+ 
+}
