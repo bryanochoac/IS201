@@ -5,7 +5,7 @@
     height: 100px;
 }
 .main-content {
-    margin: 10px;
+    margin: auto;
 }
 .nav-item {
     color: white;
@@ -31,10 +31,10 @@ li {
 
 .tableau-item{
     display: inline-block;
-    width:40%;
+    width:45%;
     height: auto;
-    margin: 30px;
-    padding: 30px;
+    margin: auto;
+    padding: 2%;
 }
 
 .footer{
