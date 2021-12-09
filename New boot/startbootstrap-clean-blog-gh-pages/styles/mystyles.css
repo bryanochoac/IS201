@@ -1,4 +1,6 @@
-h3 {
+
+/* Overwrite bootstrap */
+h3 {    
     font-size: 20px;
     font-weight: normal;
 }
@@ -8,15 +10,30 @@ h3 {
     width: 300px; 
     height: 200px;
     padding: 0 10px;
-
 }
+
+.underline {
+    text-decoration: underline;
+}
+.center-text {
+    text-align: center;
+}
+
 .center-container {
     margin: auto;
     width: 90%;
     text-align: center;
 }
+
 .video-style {
     padding-top: 50px;
     margin: auto;
- 
+}
+
+/* Overwrite bootstrap */
+.site-heading {
+    color: thistle !important;
+}
+.navbar-brand {
+    font-style: italic !important;
 }

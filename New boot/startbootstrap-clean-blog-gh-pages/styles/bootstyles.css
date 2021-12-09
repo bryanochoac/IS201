@@ -1,7 +1,11 @@
+
 .navigation-bar {
     text-align: right; 
     background-image: url("../images/tableau.jpg");
     height: 100px;
+}
+.main-content {
+    margin: 10px;
 }
 .nav-item {
     color: white;
@@ -40,4 +44,12 @@ li {
     color: rgb(134, 134, 134);
     font-style: italic;
     padding-bottom: 15px;
+}
+
+.tableau-link {
+    text-align: center;
+}
+
+.underline {
+    text-decoration: underline;
 }
